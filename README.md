@@ -1,4 +1,4 @@
-# Algorytmy-system-w-operacyjnych
+# Algorytmy-systemów-operacyjnych
 
 Projekty zrealizowane w ramach kursu Systemy Operacyjne. Celem symulacji porównanie klasycznych algorytmów:
 
